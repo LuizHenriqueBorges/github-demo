@@ -1,2 +1,2 @@
 # github-demo
-Github Trainning
+Github Training
